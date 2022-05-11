@@ -17,8 +17,8 @@ The instruction to learn and practice can be found in the `README.md` file of ea
 
 #### Repositories
 1.1. [Let's Start](https://github.com/dinhtp/lets-start) \
-1.2. [Let's Start Golang](https://github.com/dinhtp/lets-start-docker) \
-1.3. [Let's Start Docker](https://github.com/dinhtp/lets-go-company) \
+1.2. [Let's Start Golang](https://github.com/dinhtp/lets-start-golang) \
+1.3. [Let's Start Docker](https://github.com/dinhtp/lets-start-docker) \
 1.4. [Let's Start MySQL](https://github.com/dinhtp/lets-start-mysql) \
 1.4. [Let's Start Proto](https://github.com/dinhtp/lets-start-proto)
 
