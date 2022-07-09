@@ -1,2 +1,0 @@
-go install github.com/mwitkow/go-proto-validators/protoc-gen-govalidators
-go get google.golang.org/protobuf/cmd/protoc-gen-go@v1.26.0
