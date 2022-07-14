@@ -1,5 +1,6 @@
 # Let's Code Tutorial
 
+
 ## About this tutorial
 Welcome to **Let's Code** tutorial. \
 This tutorial will help you learn the basic of Golang, Docker, MySQL, Protocol Buffer and Ecommerce integration.
@@ -7,6 +8,7 @@ There will be three assignments which are **Let's Start** (elementary), **Let's 
 With each assignment, there will be a number of repositories which contain the instruction for learning and practising accordingly.
 The first repository of each assignment will contain the overall information about the assignment, 
 which helps you understand the general objective, what to do, what to learn and what to expect as the learning outcome.
+
 
 ## Assignment
 ### 1. Let's Start
