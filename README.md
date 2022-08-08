@@ -39,7 +39,7 @@ More instruction about the implementation can be found in the `README.md` file o
 ### 3. Let's Run
 #### What to expect
 In this assignment, you are required to build a customer API service which integrates with multiple ecommerce platforms.
-From one single service, the API request will branch out and sync to the designated ecommerce platform.
+From one single service, the API request will branch out and forward the payload to the designated ecommerce platform.
 The synchronization should happen in both ways (from the ecommerce platforms to the customer service and vice versa)
 More instruction about the implementation can be found in the `README.md` file of each repository.
 
@@ -48,6 +48,5 @@ More instruction about the implementation can be found in the `README.md` file o
 3.2. [Let's Run PbType](https://github.com/dinhtp/lets-run-pbtype) \
 3.3. [Let's Run Platform](https://github.com/dinhtp/lets-run-platform) \
 3.4. [Let's Run Customer](https://github.com/dinhtp/lets-run-customer) \
-3.5. [Let's Run Magento Customer](https://github.com/dinhtp/lets-run-magento-customer) \
-3.6. [Let's Run Shopify Customer](https://github.com/dinhtp/lets-run-shopify-customer) \
-3.7. [Let's Run BigCommerce Customer](https://github.com/dinhtp/lets-run-bigcommerce-customer)
+3.5. [Let's Run Shopify Customer](https://github.com/dinhtp/lets-run-shopify-customer) \
+3.6. [Let's Run WooCommerce Customer](https://github.com/dinhtp/lets-run-woocommerce-customer)
